@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-MovieNight1", "OOP-MovieNight1\OOP-MovieNight1.csproj", "{97DE6CBC-FA00-495A-9706-B3BC56FD7CAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97DE6CBC-FA00-495A-9706-B3BC56FD7CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97DE6CBC-FA00-495A-9706-B3BC56FD7CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97DE6CBC-FA00-495A-9706-B3BC56FD7CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97DE6CBC-FA00-495A-9706-B3BC56FD7CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AACD0CF-C9F8-4FCF-823E-BBC7C99F9B8F}
+	EndGlobalSection
+EndGlobal
